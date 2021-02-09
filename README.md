@@ -1,16 +1,18 @@
-### Hi there 👋
 
-<!--
-**corde177/corde177** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi dear 👋, I'm Cordeiro Luís</h1>
+<h3 align="center">Student of the Computer Engineering course and Technology lover. 
+  
+I have knowledge of:
 
-Here are some ideas to get you started:
+     - Git;
+     - GitHub;
+     - HTML5;
+     - CSS3;
+     - Programming logic.
+And, improving every time but the FRONT-END universe.
+   
+    - JAVASCRIPT.</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about **JavaScript, HTML, CSS**
+
+- 📫 How to reach me **cordeiroluisff@gmail.com** or **https://linkedin.com/in/cordeiro-luís**
