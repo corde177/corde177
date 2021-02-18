@@ -1,18 +1,18 @@
 
-<h1 align="center">Hi dear 👋, I'm Cordeiro Luís</h1>
-<h3 align="left">Student of the Computer Engineering course and Technology lover. 
-  
-I have knowledge of:
 
-- Git;
-- GitHub;
-- HTML5;
-- CSS3;
-- Programming logic.
-And, improving every time but the FRONT-END universe.
-   
- - JAVASCRIPT.</h3>
+# Hi there 👋
 
-- 💬 Ask me about **JavaScript, HTML, CSS**
+### I'm Cordeiro Luís, Computer engineering student and passionate about web development.
 
-- 📫 How to reach me **cordeiroluisff@gmail.com** or **https://linkedin.com/in/cordeiro-luís**
+- 🔭  I’m currently a finalist student in the computer engineering graduate course at [uan](https://uan.ao/).
+- 📖  Currently learning: JavaScript
+- 📫  How to reach me: [Linkedin](https://www.linkedin.com/in/cordeiro-luis/)
+- 
+#### Follow me
+
+**Languages and Tools:**  
+
+<img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+ <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+
+
