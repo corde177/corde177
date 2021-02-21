@@ -5,7 +5,7 @@
 ### I'm Cordeiro Luís, Computer engineering student and passionate about web development.
 
 - 🔭  I’m currently a finalist student in the computer engineering graduate course at [uan](https://uan.ao/).
-- 📖  Currently learning: JavaScript
+- 📖  Currently learning: JavaScript | ReactJs | Bootstrap
 - 📫  How to reach me: [Linkedin](https://www.linkedin.com/in/cordeiro-luis/)
 - 
 #### Contact me on social networks:
