@@ -1,11 +1,12 @@
 
 
-# Hi there 👋
+#Olá 👋
 
-### I'm Cordeiro Luís, Computer engineering student and passionate about Frontend Developer.
+### Eu sou o Cordeiro Luís, entusiasta e apaixonado por tecnologia de Informação!
 
-- 🔭  I’m currently a finalist student in the computer engineering graduate course at [uan](https://uan.ao/).
-- 📖  Currently learning: JavaScript 
+
+- 🔭  Atualmente sou estudante finalista do curso de Engenharia Informática [uan](https://uan.ao/).
+- 📖  Currently learning: JavaScript, 
 - 📫  How to reach me: [Linkedin](https://www.linkedin.com/in/cordeiro-luis/)
 - 
 #### Contact me on social networks:
