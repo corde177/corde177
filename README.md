@@ -5,8 +5,8 @@
 ### Eu sou o Cordeiro Luís, entusiasta e apaixonado por tecnologia de Informação!
 
 
-- 🔭  Atualmente sou estudante finalista do curso de Engenharia Informática [uan](https://uan.ao/).
-- 📖  Currently learning: JavaScript, 
+- 🔭  I am currently a final year student of the Computer Engineering course. [uan](https://uan.ao/).
+- 📖  Currently learning: JavaScript, React js e React Native 
 - 📫  How to reach me: [Linkedin](https://www.linkedin.com/in/cordeiro-luis/)
 - 
 #### Contact me on social networks:
