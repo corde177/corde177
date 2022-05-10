@@ -5,7 +5,7 @@
 ### I´m Cordeiro Luís, Web Developer!
 
 
-- 🔭  I am currently a final year student of the Computer Engineering course. [uan](https://uan.ao/).
+- 🔭  Currently only a finalist student of the computer engineering course at [uan](https://uan.ao/).
 - 📖  Currently learning: React.js, React Native and Node.Js  
 - 📫  How to reach me: [Gmail](mailto:cordeiroluisff@gmail.com)
 
