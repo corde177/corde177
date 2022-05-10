@@ -2,7 +2,7 @@
 
 #Hi There 👋
 
-### I´m Cordeiro Luís, entusiasta and Web Developer!
+### I´m Cordeiro Luís, Web Developer!
 
 
 - 🔭  I am currently a final year student of the Computer Engineering course. [uan](https://uan.ao/).
