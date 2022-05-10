@@ -6,7 +6,7 @@
 
 
 - 🔭  I am currently a final year student of the Computer Engineering course. [uan](https://uan.ao/).
-- 📖  Currently learning: JavaScript, React js e React Native 
+- 📖  Currently learning: React js  
 - 📫  How to reach me: [Linkedin](https://www.linkedin.com/in/cordeiro-luis/)
 - 
 #### Contact me on social networks:
