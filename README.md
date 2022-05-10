@@ -1,8 +1,8 @@
 
 
-#Olá 👋
+#Hello There 👋
 
-### Eu sou o Cordeiro Luís, entusiasta e apaixonado por tecnologia de Informação!
+### I´m Cordeiro Luís, entusiasta and Web Developer!
 
 
 - 🔭  I am currently a final year student of the Computer Engineering course. [uan](https://uan.ao/).
