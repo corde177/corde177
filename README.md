@@ -7,7 +7,7 @@
 
 - 🔭  Currently only a finalist student of the computer engineering course at [uan](https://uan.ao/).
 - 📖  Currently learning: React.js, React Native and Node.Js  
-- 📫  How to reach me: [Gmail](mailto:cordeiroluisff@gmail.com)
+- 📫  How to reach me: **cordeiroluisff@gmail.com**
 
 ### Follow me on: 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cordeiro-luis/)
