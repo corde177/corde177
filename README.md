@@ -2,7 +2,7 @@
 
 #Hi There 👋
 
-### I´m Cordeiro Luís, Web Developer!
+### I´m Cordeiro Luís, Front-End Developer!
 
 
 - 🔭  Final year student of computer engineering course at [uan](https://uan.ao/).
@@ -12,8 +12,6 @@
 ### Follow me on: 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cordeiro-luis/)
 [![GitHUb](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/corde177)
-
-![Cordeiro Luís GitHub stats](https://github-readme-stats.vercel.app/api?username=corde177&show_icons=true&theme=white)
 
 ### Languages and Tools:
  <div style= "display: inline-block">
