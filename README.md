@@ -6,7 +6,7 @@
 
 
 - 🔭  Final year student of computer engineering course at [uan](https://uan.ao/).
-- 📖  Currently learning: React.js and TypeScript  
+- 📖  Currently learning: NodeJS  
 - 📫  How to reach me: **cordeiroluisff@gmail.com**
 
 ### Follow me on: 
