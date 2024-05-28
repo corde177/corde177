@@ -4,8 +4,6 @@
 
 ### I´m Cordeiro Luís, Front-End Developer!
 
-
-- 🔭  Final year student of computer engineering course at [uan](https://uan.ao/).
 - 📫  How to reach me: **cordeiroluisff@gmail.com**
 
 ### Follow me on: 
