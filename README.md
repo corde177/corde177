@@ -11,7 +11,7 @@
 [![GitHUb](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/corde177)
 
 ### Languages and Tools:
- <div style= "display: flex; margin: 0.5rem;">
+ <div style= "display: flex; fex-wrap: wrap; margin: 0.8rem;">
     <img align="center" style= "margin: 0.5rem;" alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
     <img align="center" style= "margin: 0.5rem;" alt="css3" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
     <img align="center" style= "margin: 0.5rem;" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
