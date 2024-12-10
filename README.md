@@ -19,9 +19,9 @@
     <img align="center" style= "margin:  1rem 0 1rem 0;" alt="typescript" src="https://img.shields.io/badge/typescript-0A5EB0?&style=for-the-badge&logo=typescript&logoColor=white">
     <img align="center" style= "margin:  1rem 0 1rem 0;" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
     <img align="center" style= "margin:  1rem 0 1rem 0;" alt="tailwindcss" src="https://img.shields.io/badge/tailwindcss-80C4E9?&style=for-the-badge&logo=tailwindcss&logoColor=white">
-    <img align="center" style= "margin:  1rem 0 1rem 0;" alt="sass" src="https://img.shields.io/badge/sass-CA7373?&style=for-the-badge&logo=sass&logoColor=white">
     <img align="center" style= "margin:  1rem 0 1rem 0;" alt="github" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"> 
+   <!-- <img align="center" style= "margin:  1rem 0 1rem 0;" alt="sass" src="https://img.shields.io/badge/sass-CA7373?&style=for-the-badge&logo=sass&logoColor=white">
     <img align="center" style= "margin:  1rem 0 1rem 0;" alt="vite" src="https://img.shields.io/badge/vite-E38E49?&style=for-the-badge&logo=vite&logoColor=white"> 
-  <img align="center" style= "margin:  1rem 0 1rem 0;" alt="figma" src="https://img.shields.io/badge/figma-239120?&style=for-the-badge&logo=figma&logoColor=white"> 
+  <img align="center" style= "margin:  1rem 0 1rem 0;" alt="figma" src="https://img.shields.io/badge/figma-239120?&style=for-the-badge&logo=figma&logoColor=white"> -->
  </div>
 
