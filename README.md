@@ -5,6 +5,7 @@
 ### I´m Cordeiro Elavoco Luís, Front-End Developer!
 
 - 📫  How to reach me: **cordeiroluisff@gmail.com**
+- 📫 Tel:  **+244 925333561**
 
 ### Follow me on: 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cordeiro-luis/)
