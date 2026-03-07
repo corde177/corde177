@@ -1,6 +1,6 @@
 # Hello, I'm Cordeiro Luis! 👋
 
-### **Odoo Solutions Engineer & Front-End Specialist**
+### **Odoo Developer Engineer & Front-End Specialist**
 >Transformo processos de negócios complexos em módulos funcionais e escaláveis dentro do ecossistema **Odoo**. Minha abordagem combina rigor técnico em Python com uma visão analítica sobre ERP para entregar eficiência operacional.
 
 ---
