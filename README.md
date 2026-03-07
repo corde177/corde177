@@ -1,4 +1,29 @@
+# João Cordeiro (corde177)
+**Odoo Specialist | Backend Developer**
 
+Especialista no ecossistema Odoo, focado no desenvolvimento de módulos robustos, arquitetura de sistemas ERP e automação de processos de negócio.
+
+---
+
+### 🛠 Tech Stack & Expertise
+* **ERP:** Odoo (v12 - v18) / Odoo.sh / OCA Standards
+* **Languages:** Python, JavaScript (OWL, JS Framework), SQL, XML
+* **Data:** PostgreSQL, Redis, Data Migration & ETL
+* **DevOps:** Docker, Nginx, Git, CI/CD para Odoo
+* **Integrations:** REST/JSON-RPC, Stripe, Amazon, Carriers APIs
+
+### 🔭 Current Focus
+* Otimização de performance em instâncias de alta carga.
+* Desenvolvimento de interfaces modernas com **OWL (Odoo Web Library)**.
+* Contribuição com módulos para a comunidade (OCA).
+
+### 📈 GitHub Status
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=corde177&show_icons=true&theme=transparent&hide_border=true&title_color=0055ff&icon_color=0055ff&text_color=555)](https://github.com/corde177)
+
+---
+
+### 📫 Contact
+[LinkedIn](https://linkedin.com/in/seu-usuario) • [Email](mailto:seu-email@dominio.com) • [WhatsApp](https://wa.me/seunumerotelefone)
 # Olá, eu sou o [Seu Nome]! 👋
 
 ## 🚀 Desenvolvedor Odoo | Especialista em Python & ERP
